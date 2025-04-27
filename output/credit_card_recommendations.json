@@ -1,0 +1,37 @@
+{
+  "recommendations": [
+    {
+      "card_name": "Discover it Cash Back",
+      "reason": "Your highest spending category is shopping, which matches Discover's 5% cashback on rotating categories. This card could help you maximize your rewards in this category.",
+      "benefits": [
+        "5% cashback on rotating categories"
+      ],
+      "annual_fee": "0",
+      "credit_limit": "7500",
+      "interest_rate": "21.49",
+      "user_behavior_match": "High spending in shopping category"
+    },
+    {
+      "card_name": "Chase Freedom Unlimited",
+      "reason": "Your average monthly spending is quite high, and the unlimited 1.5% cashback on all purchases from Chase Freedom Unlimited could help you earn significant rewards on your overall spending.",
+      "benefits": [
+        "Unlimited 1.5% cashback on all purchases"
+      ],
+      "annual_fee": "0",
+      "credit_limit": "9500",
+      "interest_rate": "20.24",
+      "user_behavior_match": "High overall monthly spending"
+    },
+    {
+      "card_name": "American Express Gold Card",
+      "reason": "Your top merchants include Amazon, Apple, and Whole Foods, which are all eligible for 4x points with the American Express Gold Card. Your interests in technology and shopping could also benefit from this card.",
+      "benefits": [
+        "4x points on dining, 3x points on flights"
+      ],
+      "annual_fee": "250",
+      "credit_limit": "20000",
+      "interest_rate": "20.99",
+      "user_behavior_match": "Top merchants: Amazon, Apple, Whole Foods"
+    }
+  ]
+}

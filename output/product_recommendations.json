@@ -1,0 +1,16 @@
+{
+  "credit_card_recommendations": [
+    {
+      "card_name": "Chase Freedom Unlimited",
+      "reason": "With your highest spending category being shopping and an average transaction amount of $189.70, the Chase Freedom Unlimited card's unlimited 1.5% cashback on all purchases aligns well with your spending patterns.",
+      "user_behavior_match": "highest spending category: shopping"
+    },
+    {
+      "card_name": "Discover it Cash Back",
+      "reason": "Given your interest in finance and the 5% cashback on rotating categories, Discover it Cash Back could provide additional value.",
+      "user_behavior_match": "interest: finance"
+    }
+  ],
+  "loan_recommendations": [],
+  "other_recommendations": []
+}
