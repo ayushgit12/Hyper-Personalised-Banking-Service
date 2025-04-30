@@ -11,10 +11,10 @@ personalised_banking_services/
 │   ├── credit_card_transactions.csv       # Credit card transaction history
 │   ├── KYC_Details.csv                    # Know Your Customer details
 │   ├── social_media_posts.csv             # User's social media activity
-│   ├── emails_to_wells_fargo.csv          # Email communications
+│   ├── emails_to_banks.csv          # Email communications
 │   ├── Receiver_vs_Category.csv           # Transaction categorization
-│   ├── Wells_Fargo_Credit_Card_Details.csv# Available credit card products
-│   ├── Wells_Fargo_Loan_Details.csv       # Available loan products
+│   ├── Credit_Card_Details.csv# Available credit card products
+│   ├── Loan_Details.csv       # Available loan products
 │   └── credit_card_list.csv               # User's existing credit cards
 ├── src/
 │   ├── ai/
@@ -129,10 +129,10 @@ This project was developed and demoed using:
    - `credit_card_transactions.csv` - Credit card usage
    - `KYC_Details.csv` - Personal information
    - `social_media_posts.csv` - Social media activity
-   - `emails_to_wells_fargo.csv` - Email communications
+   - `emails_to_banks.csv` - Email communications
    - `Receiver_vs_Category.csv` - Transaction categorization
-   - `Wells_Fargo_Credit_Card_Details.csv` - Available credit cards
-   - `Wells_Fargo_Loan_Details.csv` - Available loan products
+   - `Credit_Card_Details.csv` - Available credit cards
+   - `Loan_Details.csv` - Available loan products
    - `credit_card_list.csv` - Existing credit cards
 
 7. **Configure Settings**
@@ -149,10 +149,10 @@ This project was developed and demoed using:
        "credit_card_transactions": DATA_DIR / "credit_card_transactions.csv",
        "social_media": DATA_DIR / "social_media_posts.csv",
        "kyc": DATA_DIR / "KYC_Details.csv",
-       "emails": DATA_DIR / "emails_to_wells_fargo.csv",
+       "emails": DATA_DIR / "emails_to_banks.csv",
        "receiver_categories": DATA_DIR / "Receiver_vs_Category.csv",
-       "credit_cards": DATA_DIR / "Wells_Fargo_Credit_Card_Details.csv",
-       "loans": DATA_DIR / "Wells_Fargo_Loan_Details.csv",
+       "credit_cards": DATA_DIR / "Credit_Card_Details.csv",
+       "loans": DATA_DIR / "Loan_Details.csv",
        "credit_card_list": DATA_DIR / "credit_card_list.csv"
    }
 
